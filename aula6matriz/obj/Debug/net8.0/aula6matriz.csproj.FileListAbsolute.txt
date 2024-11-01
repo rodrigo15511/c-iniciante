@@ -1,0 +1,7 @@
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.sourcelink.json
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.dll
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.pdb
